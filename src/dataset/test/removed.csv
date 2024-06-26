@@ -1,0 +1,4 @@
+estrone,CC12CCC3C4=CC=C(O)C=C4CCC3C1CCC2=O,,6beta-estrone,CC12CCC3C4=CC=C(O)C=C4C(O)CC3C1CCC2=O,,CYP3A4; CYP3A5; CYP3A7,0.78,Hydroxylation of alicyclic secondary carbon
+quazepam,FC1=CC=CC=C1C1=NCC(=S)N(CC(F)(F)F)C2=CC=C(Cl)C=C12,,2-Oxoquazepam,O=C1CN=C(C2=CC=CC=C2F)C2=CC(Cl)=CC=C2N1CC(F)(F)F,,CYP2C19,0.8,Desulfurization of thioamide into amide
+"2Ã¢â‚¬Â[(S)Ã¢â‚¬Â[4Ã¢â‚¬Â(cyclopropylmethoxy)pyridinÃ¢â‚¬Â2Ã¢â‚¬Âyl]methanesulfinyl]Ã¢â‚¬Â5Ã¢â‚¬ÂfluoroÃ¢â‚¬Â1HÃ¢â‚¬Â1,3Ã¢â‚¬Âbenzodiazole",O=S(CC1=CC(OCC2CC2)=CC=N1)C1=NC2=CC=C(F)C=C2N1,,Sulphone,O=S(=O)(CC1=CC(OCC2CC2)=CC=N1)C1=NC2=CC=C(F)C=C2N1,,CYP1A2;CYP2C9;CYP3A4,0.93,S-Oxidation
+"2Ã¢â‚¬Â[(S)Ã¢â‚¬Â[4Ã¢â‚¬Â(cyclopropylmethoxy)pyridinÃ¢â‚¬Â2Ã¢â‚¬Âyl]methanesulfinyl]Ã¢â‚¬Â5Ã¢â‚¬ÂfluoroÃ¢â‚¬Â1HÃ¢â‚¬Â1,3Ã¢â‚¬Âbenzodiazole",O=S(CC1=CC(OCC2CC2)=CC=N1)C1=NC2=CC=C(F)C=C2N1,,,O=S(CC1=CC(OCC2CC2)=CC=N1)C1=NC2=CC(O)=C(F)C=C2N1,,CYP1A2;CYP2C9;CYP2C19;CYP3A4,0.9,Aromatic Hydroxylation

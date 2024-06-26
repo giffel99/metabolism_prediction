@@ -1,0 +1,146 @@
+parent_name,parent_smiles,metabolite_name,metabolite_smiles,enzymes,reaction_types,fingerprint_similarity
+(R)-halothane,FC(F)(F)C(Cl)Br,trifluoroacetic acid,O=C(O)C(F)(F)F,CYP2E1,Oxidation of halotrifluoroethane,0.19
+(-)-limonene,C=C(C)C1CC=C(C)CC1,Carveol,C=C(C)C1CC=C(C)C(O)C1,CYP2C9; CYP2C19,Allylic hydroxylation,0.58
+(-)-limonene,C=C(C)C1CC=C(C)CC1,Perillyl alcohol,C=C(C)C1CC=C(CO)CC1,CYP2C9; CYP2C19; CYP3A4,Allylic hydroxylation,0.76
+Perhexiline,C1CCC(C(CC2CCCCN2)C2CCCCC2)CC1,cis-hydroxyperhexilline,OC1CCC(C(CC2CCCCN2)C2CCCCC2)CC1,CYP2D6,Hydroxylation of alicyclic secondary carbon,0.8
+Perhexiline,C1CCC(C(CC2CCCCN2)C2CCCCC2)CC1,trans-hydroxyperhexilline,OC1CCC(C(CC2CCCCN2)C2CCCCC2)CC1,CYP2D6,Hydroxylation of alicyclic secondary carbon,0.8
+(r)-azelastine,CN1CCCC(N2N=C(CC3=CC=C(Cl)C=C3)C3=CC=CC=C3C2=O)CC1,"(r)-azelastine, N-desmethyl",O=C1C2=CC=CC=C2C(CC2=CC=C(Cl)C=C2)=NN1C1CCCNCC1,CYP3A4; CYP2D6; CYP1A2 (minor),N-dealkylation of alicyclic tertiary amine,0.98
+(r)-metoprolol,COCCC1=CC=C(OCC(O)CNC(C)C)C=C1,alpha-Hydroxymetoprolol,COCC(O)C1=CC=C(OCC(O)CNC(C)C)C=C1,CYP2D6,Hydroxylation of non-terminal aliphatic carbon adjacent to aromatic ring,0.83
+(s)-(-)-carvedilol,COC1=CC=CC=C1OCCNCC(O)COC1=CC=CC2=C1C1=CC=CC=C1N2,O-Desmethylcarvedilol,OC1=CC=CC=C1OCCNCC(O)COC1=CC=CC2=C1C1=CC=CC=C1N2,CYP2C9 (major); CYP2D6 (minor); CYP1A2 (minor); CYP2E1 (minor),O-aryl demethylation,0.98
+(s)-(+)-ibuprofen,CC(C)CC1=CC=C(C(C)C(=O)O)C=C1,2-Hydroxyibuprofen,CC(C(=O)O)C1=CC=C(CC(C)(C)O)C=C1,CYP2C9; CYP2C8,Hydroxylation of penultimate aliphatic tertiary carbon,0.91
+(s)-(+)-ibuprofen,CC(C)CC1=CC=C(C(C)C(=O)O)C=C1,3-Hydroxyibuprofen,CC(CO)CC1=CC=C(C(C)C(=O)O)C=C1,CYP2C9; CYP2C8,Hydroxylation of terminal methyl,0.92
+(s)-fluoxetine,CNCCC(OC1=CC=C(C(F)(F)F)C=C1)C1=CC=CC=C1,(s)-Norfluoxetine,NCCC(OC1=CC=C(C(F)(F)F)C=C1)C1=CC=CC=C1,CYP2C9 (major); CYP2D6; CYP2C19; CYP3A4; CYP3A5,N-dealkylation of acyclic secondary amine,0.95
+(s)-fluoxetine,CNCCC(OC1=CC=C(C(F)(F)F)C=C1)C1=CC=CC=C1,p-Trifluoromethyl phenol,OC1=CC=C(C(F)(F)F)C=C1,CYP2C19; CYP3A4,O-dealkylation,0.32
+(s)-oxybutynin,CCN(CC)CC#CCOC(=O)C(O)(C1=CC=CC=C1)C1CCCCC1,N-desethyloxybutynin,CCNCC#CCOC(=O)C(O)(C1=CC=CC=C1)C1CCCCC1,CYP3A4,N-dealkylation of acyclic tertiary amine,0.99
+(s)-venlafaxine,COC1=CC=C(C(CN(C)C)C2(O)CCCCC2)C=C1,N-Desmethylvenlafaxine,CNCC(C1=CC=C(OC)C=C1)C1(O)CCCCC1,CYP2C19 (major); CYP3A4 (minor); CYP2C9 (minor),N-dealkylation of acyclic tertiary amine,0.95
+(s)-venlafaxine,COC1=CC=C(C(CN(C)C)C2(O)CCCCC2)C=C1,O-Desmethylvenlafaxine,CN(C)CC(C1=CC=C(O)C=C1)C1(O)CCCCC1,CYP2D6,O-aryl demethylation,0.96
+4-Hydroxytamoxifen,CCC(=C(C1=CC=C(O)C=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Endoxifen,CCC(=C(C1=CC=C(O)C=C1)C1=CC=C(OCCNC)C=C1)C1=CC=CC=C1,CYP3A4; CYP3A5,N-dealkylation of acyclic tertiary amine,0.98
+aceclofenac,O=C(O)COC(=O)CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl,Diclofenac,O=C(O)CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl,CYP2C9,HYDROLYSIS_OF_CARBOXYLIC_ESTER,0.85
+alfentanil,CCC(=O)N(C1=CC=CC=C1)C1(COC)CCN(CCN2N=NN(CC)C2=O)CC1,Noralfentanil,CCC(=O)N(C1=CC=CC=C1)C1(COC)CCNCC1,CYP3A4,N-dealkylation of alicyclic tertiary amine,0.73
+alphacetylmethadol,CCC(OC(C)=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C1=CC=CC=C1,norLAAM,CCC(OC(C)=O)C(CC(C)NC)(C1=CC=CC=C1)C1=CC=CC=C1,CYP2B6;CYP2C8;CYP2C19;CYP3A4,N-DEMETHYLATION,0.97
+amitriptyline,CN(C)CCC=C1C2=CC=CC=C2CCC2=CC=CC=C12,Nortriptyline,CNCCC=C1C2=CC=CC=C2CCC2=CC=CC=C12,CYP2C19; CYP3A4; CYP2C9; CYP1A2,N-dealkylation of acyclic tertiary amine,0.99
+amitriptyline,CN(C)CCC=C1C2=CC=CC=C2CCC2=CC=CC=C12,E-10-OH-amitriptyline,CN(C)CCC=C1C2=CC=CC=C2CC(O)C2=CC=CC=C12,CYP2D6,Hydroxylation of alicyclic secondary carbon,0.73
+arachidonic acid,CCCCCC=CCC=CCC=CCC=CCCCC(=O)O,5-HETE,CCCCCC=CCC=CCC=CC=CC(O)CCCC(=O)O,CYP1A1; CYP1A2; CYP2C8; CYP2C9,"Aliphatic hydroxylation of acyclic 1,2-disubstituted alkene",0.51
+arachidonic acid,CCCCCC=CCC=CCC=CCC=CCCCC(=O)O,7-HETE,CCCCCC=CCC=CCC=CC(O)C=CCCCC(=O)O,CYP1A2; CYP3A4,Bisallylic hydroxylation,0.74
+arachidonic acid,CCCCCC=CCC=CCC=CCC=CCCCC(=O)O,10-HETE,CCCCCC=CCC=CC(O)C=CCC=CCCCC(=O)O,CYP1A2; CYP2C8; CYP3A4,Bisallylic hydroxylation,0.77
+arachidonic acid,CCCCCC=CCC=CCC=CCC=CCCCC(=O)O,13-HETE,CCCCCC=CC(O)C=CCC=CCC=CCCCC(=O)O,CYP1A2; CYP2C8; CYP2C9; CYP3A4,Bisallylic hydroxylation,0.74
+arachidonic acid,CCCCCC=CCC=CCC=CCC=CCCCC(=O)O,17-HETE,CCCC(O)CC=CCC=CCC=CCC=CCCCC(=O)O,CYP1A1; CYP1A2,Hydroxylation of acyclic aliphatic secondary carbon,0.75
+arachidonic acid,CCCCCC=CCC=CCC=CCC=CCCCC(=O)O,15-HETE,CCCCCC(O)C=CC=CCC=CCC=CCCCC(=O)O,CYP1A1; CYP1A2; CYP2C8,"Aliphatic hydroxylation of acyclic 1,2-disubstituted alkene",0.62
+arachidonic acid,CCCCCC=CCC=CCC=CCC=CCCCC(=O)O,12-HETE,CCCCCC=CCC(O)C=CC=CCC=CCCCC(=O)O,CYP1A1; CYP1A2; CYP2C9,"Aliphatic hydroxylation of acyclic 1,2-disubstituted alkene",0.62
+arachidonic acid,CCCCCC=CCC=CCC=CCC=CCCCC(=O)O,9-HETE,CCCCCC=CCC=CCC(O)C=CC=CCCCC(=O)O,CYP1A2; CYP2C8; CYP2C9,"Aliphatic hydroxylation of acyclic 1,2-disubstituted alkene",0.63
+arachidonic acid,CCCCCC=CCC=CCC=CCC=CCCCC(=O)O,8-HETE,CCCCCC=CCC=CC=CC(O)CC=CCCCC(=O)O,CYP1A1; CYP1A2; CYP2C8; CYP2C9,"Aliphatic hydroxylation of acyclic 1,2-disubstituted alkene",0.62
+bosentan,COC1=CC=CC=C1OC1=C(OCCO)N=C(C2=NC=CC=N2)N=C1NS(=O)(=O)C1=CC=C(C(C)(C)C)C=C1,"4-(2-hydroxy-1,1-dimethylethyl)-N-[6-(2-hydroxyethoxy)-5-(2-methoxyphenoxy)-[2,2Ã¢â‚¬â„¢]bipyrimidinyl-4-yl]-benzenesulfonamide",COC1=CC=CC=C1OC1=C(OCCO)N=C(C2=NC=CC=N2)N=C1NS(=O)(=O)C1=CC=C(C(C)(C)CO)C=C1,CYP3A4 (major); CYP2C9 (minor),Hydroxylation of terminal methyl,0.98
+bosentan,COC1=CC=CC=C1OC1=C(OCCO)N=C(C2=NC=CC=N2)N=C1NS(=O)(=O)C1=CC=C(C(C)(C)C)C=C1,"4-tert-butyl-N-[6-(2-hydroxyethoxy)-5-(2-hydroxyphenoxy)-[2,2Ã¢â‚¬â„¢]bipyrimidinyl-4-yl]-benzenesulfonamide",CC(C)(C)C1=CC=C(S(=O)(=O)NC2=NC(C3=NC=CC=N3)=NC(OCCO)=C2OC2=CC=CC=C2O)C=C1,CYP3A4 (major); CYP2C9 (minor),O-aryl demethylation,0.99
+celecoxib,CC1=CC=C(C2=CC(C(F)(F)F)=NN2C2=CC=C(S(N)(=O)=O)C=C2)C=C1,Hydroxy celecoxib,NS(=O)(=O)C1=CC=C(N2N=C(C(F)(F)F)C=C2C2=CC=C(CO)C=C2)C=C1,CYP2C9 (major); CYP3A4 (minor); CYP2C19 (minor),Aliphatic hydroxylation of methyl carbon adjacent to aromatic ring,0.98
+cinnarizine,C(=CC1=CC=CC=C1)CN1CCN(C(C2=CC=CC=C2)C2=CC=CC=C2)CC1,4-{phenyl[4-(3-phenylprop-2-en-1-yl)piperazin-1-yl]methyl}phenol,OC1=CC=C(C(C2=CC=CC=C2)N2CCN(CC=CC3=CC=CC=C3)CC2)C=C1,CYP2B6,p-Hydroxylation of monosubstituted benzene,0.89
+cinnarizine,C(=CC1=CC=CC=C1)CN1CCN(C(C2=CC=CC=C2)C2=CC=CC=C2)CC1,4-{3-[4-(diphenylmethyl)piperazin-1-yl]prop-1-en-1-yl}phenol,OC1=CC=C(C=CCN2CCN(C(C3=CC=CC=C3)C3=CC=CC=C3)CC2)C=C1,CYP2D6,p-Hydroxylation of monosubstituted benzene,0.9
+cinnarizine,C(=CC1=CC=CC=C1)CN1CCN(C(C2=CC=CC=C2)C2=CC=CC=C2)CC1,1-Benzhydrylpiperazine,C1=CC=C(C(C2=CC=CC=C2)N2CCNCC2)C=C1,CYP2C9; CYP1A2; CYP2A6,N_DEALKYLATION_OF_ALIPHATIC_TERTIARY_AMINES_PATTERN1,0.76
+cinnarizine,C(=CC1=CC=CC=C1)CN1CCN(C(C2=CC=CC=C2)C2=CC=CC=C2)CC1,Cinnamaldehyde,O=CC=CC1=CC=CC=C1,CYP2C9; CYP1A2; CYP2A6,N_DEALKYLATION_OF_ALIPHATIC_TERTIARY_AMINES_PATTERN1,0.22
+cinnarizine,C(=CC1=CC=CC=C1)CN1CCN(C(C2=CC=CC=C2)C2=CC=CC=C2)CC1,Benzophenone,O=C(C1=CC=CC=C1)C1=CC=CC=C1,CYP2C9; CYP1A2; CYP2A6,OXIDATIVE_DEAMINATION_OF_TERTIARY_AMINES; N_DEALKYLATION_OF_ALICYCLIC_TERTIARY_AMINES_PATTERN1,0.21
+clarithromycin,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(OC)CC(C)C(=O)C(C)C(O)C1(C)O,N-desmethyl-CLAR,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(NC)C2O)C(C)(OC)CC(C)C(=O)C(C)C(O)C1(C)O,CYP3A4,N-demethylation,0.97
+codeine,COC1=CC=C2CC3C4C=CC(O)C5OC1=C2C45CCN3C,morphine,CN1CCC23C4=C5C=CC(O)=C4OC2C(O)C=CC3C1C5,CYP2D6,O-aryl demethylation,0.99
+codeine,COC1=CC=C2CC3C4C=CC(O)C5OC1=C2C45CCN3C,norcodeine,COC1=CC=C2CC3NCCC45C2=C1OC4C(O)C=CC35,CYP3A4,N-dealkylation of alicyclic tertiary amine,0.98
+cyclobenzaprine,CN(C)CCC=C1C2=CC=CC=C2C=CC2=CC=CC=C12,N-Desmethylcyclobenzaprine,CNCCC=C1C2=CC=CC=C2C=CC2=CC=CC=C12,CYP1A2 (major); CYP3A4 (major); CYP2D6 (minor),N_DEALKYLATION_OF_ALIPHATIC_TERTIARY_AMINES_PATTERN1; N_DEALKYLATION_OF_ACYCLIC_TERTIARY_AMINES,0.98
+dapsone,NC1=CC=C(S(=O)(=O)C2=CC=C(N)C=C2)C=C1,N-Hydroxydapsone,NC1=CC=C(S(=O)(=O)C2=CC=C(NO)C=C2)C=C1,CYP2E1; CYP3A4; CYP2C9; CYP2C8,N-hydroxylation of aniline to hydroxylamine,0.87
+desogestrel,C#CC1(O)CCC2C3CCC4=CCCCC4C3C(=C)CC21CC,3-alpha-OH-desogestrel,C#CC1(O)CCC2C3CCC4=CC(O)CCC4C3C(=C)CC21CC,CYP2C9; CYP2C19,Allylic hydroxylation,0.9
+desogestrel,C#CC1(O)CCC2C3CCC4=CCCCC4C3C(=C)CC21CC,3-beta-OH-desogestrel,C#CC1(O)CCC2C3CCC4=CC(O)CCC4C3C(=C)CC21CC,CYP2C9; CYP2C19,Allylic hydroxylation,0.9
+diclofenac,O=C(O)CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl,4'-OH-diclofenac,O=C(O)CC1=CC=CC=C1NC1=C(Cl)C=C(O)C=C1Cl,CYP2C9,Hydroxylation of benzene on carbon para to a strongly electron donating group,0.87
+diphenhydramine,CN(C)CCOC(C1=CC=CC=C1)C1=CC=CC=C1,N-Desmethyldiphenhydramine,CNCCOC(C1=CC=CC=C1)C1=CC=CC=C1,CYP2D6; CYP1A2; CYP2C9; CYP2C19; CYP2B6,N-dealkylation of acyclic tertiary amine,0.96
+doxepin,CN(C)CCC=C1C2=CC=CC=C2COC2=CC=CC=C12,nordoxepin,CNCCC=C1C2=CC=CC=C2COC2=CC=CC=C12,CYP2C19,N-dealkylation of acyclic tertiary amine,0.99
+fentanyl,CCC(=O)N(C1=CC=CC=C1)C1CCN(CCC2=CC=CC=C2)CC1,Norfentanyl,CCC(=O)N(C1=CC=CC=C1)C1CCNCC1,CYP3A4,N-dealkylation of alicyclic tertiary amine,0.78
+flunarizine,FC1=CC=C(C(C2=CC=C(F)C=C2)N2CCN(CC=CC3=CC=CC=C3)CC2)C=C1,1Ã¢â‚¬Â[bis(4Ã¢â‚¬Âfluorophenyl)methyl]piperazine,FC1=CC=C(C(C2=CC=C(F)C=C2)N2CCNCC2)C=C1,CYP1A2; CYP2C9,N-dealkylation of alicyclic tertiary amine,0.79
+flunarizine,FC1=CC=C(C(C2=CC=C(F)C=C2)N2CCN(CC=CC3=CC=CC=C3)CC2)C=C1,p-Hydroxyflunarizine,OC1=CC=C(C=CCN2CCN(C(C3=CC=C(F)C=C3)C3=CC=C(F)C=C3)CC2)C=C1,CYP2D6,p-Hydroxylation of monosubstituted benzene,0.91
+flunarizine,FC1=CC=C(C(C2=CC=C(F)C=C2)N2CCN(CC=CC3=CC=CC=C3)CC2)C=C1,bis(4Ã¢â‚¬Âfluorophenyl)methanone,O=C(C1=CC=C(F)C=C1)C1=CC=C(F)C=C1,CYP2C9; CYP1A1,N-dealkylation of alicyclic tertiary amine,0.28
+haloperidol,O=C(CCCN1CCC(O)(C2=CC=C(Cl)C=C2)CC1)C1=CC=C(F)C=C1,Haloperidol pyridinium,O=C(CCCN1C=CC(=C2C=CC(=[Cl+])C=C2)C=C1)C1=CC=C(F)C=C1,CYP3A4,Formation of pyridinium from 4-substituted piperidine,0.42
+imipramine,CN(C)CCCN1C2=CC=CC=C2CCC2=CC=CC=C21,2-Hydroxyimipramine ,CN(C)CCCN1C2=CC=CC=C2CCC2=CC(O)=CC=C21,CYP2C19 (major); CYP2D6 ,Aromatic hydroxylation of fused benzene ring,0.86
+imipramine,CN(C)CCCN1C2=CC=CC=C2CCC2=CC=CC=C21,Desimipramine ,CNCCCN1C2=CC=CC=C2CCC2=CC=CC=C21,CYP2C19; CYP2C18; CYP2D6; CYP1A2 ,N-dealkylation of acyclic tertiary amine,0.99
+irbesartan,CCCCC1=NC2(CCCC2)C(=O)N1CC1=CC=C(C2=CC=CC=C2C2=NNN=N2)C=C1,"2-(3-hydroxybutyl)-3-({4-[2-(2H-1,2,3,4-tetrazol-5-yl)phenyl]phenyl}methyl)-1,3-diazaspiro[4.4]non-1-en-4-one",CC(O)CCC1=NC2(CCCC2)C(=O)N1CC1=CC=C(C2=CC=CC=C2C2=NNN=N2)C=C1,CYP2C9,Hydroxylation of penultimate aliphatic secondary carbon,0.98
+irbesartan,CCCCC1=NC2(CCCC2)C(=O)N1CC1=CC=C(C2=CC=CC=C2C2=NNN=N2)C=C1,M7,CCCCC1=NC2(CCC(O)C2)C(=O)N1CC1=CC=C(C2=CC=CC=C2C2=NNN=N2)C=C1,CYP2C9,Hydroxylation of alicyclic secondary carbon,0.92
+irbesartan,CCCCC1=NC2(CCCC2)C(=O)N1CC1=CC=C(C2=CC=CC=C2C2=NNN=N2)C=C1,M3,O=C(O)CCCC1=NC2(CCCC2)C(=O)N1CC1=CC=C(C2=CC=CC=C2C2=NNN=N2)C=C1,CYP2C9,C-Oxidation,0.98
+l-cyclophosphamide,O=P1(N(CCCl)CCCl)NCCCO1,Dechloroethyl cyclophosphamide,O=P1(NCCCl)NCCCO1,CYP2B6; CYP3A4; CYP3A5,N-dechloroethylation,0.66
+l-ifosfamide,O=P1(NCCCl)OCCCN1CCCl,3-Dechloroethylifosfamide,O=P1(NCCCl)NCCCO1,CYP2B6; CYP3A4; CYP3A5,N-dechloroethylation,0.59
+l-ifosfamide,O=P1(NCCCl)OCCCN1CCCl,2-Dechloroethylifosfamide,NP1(=O)OCCCN1CCCl,CYP2B6; CYP3A4; CYP3A5,N-dechloroethylation,0.83
+l-ifosfamide,O=P1(NCCCl)OCCCN1CCCl,4-Hydroxyifosfamide,O=P1(NCCCl)OCCC(O)N1CCCl,CYP2B6 (major); CYP3A4 (major); CYP2A6 (minor); CYP2C8 (minor); CYP2C9 (minor); CYP2C19 (minor); CYP3A5 (minor),4-alkyl hydroxylation of oxoazaphosphorine,0.68
+licofelone,CC1(C)CC2=C(C3=CC=CC=C3)C(C3=CC=C(Cl)C=C3)=C(CC(=O)O)N2C1,licofelone M4,CC1(C)CC2=C(C3=CC=C(O)C=C3)C(C3=CC=C(Cl)C=C3)=C(CC(=O)O)N2C1,CYP3A4; CYP2C8; CYP2C19; CYP2D6,p-Hydroxylation of monosubstituted benzene,0.98
+lisofylline,CC(O)CCCCN1C(=O)C2=C(N=CN2C)N(C)C1=O,pentoxifylline,CC(=O)CCCCN1C(=O)C2=C(N=CN2C)N(C)C1=O,CYP1A2,Oxidation of secondary alcohol to ketone,0.97
+maprotiline,CNCCCC12CCC(C3=CC=CC=C31)C1=CC=CC=C12,desmethylmaprotiline,NCCCC12CCC(C3=CC=CC=C31)C1=CC=CC=C12,CYP2D6; CYP1A2,N-dealkylation of acyclic secondary amine,0.97
+nortriptyline,CNCCC=C1C2=CC=CC=C2CCC2=CC=CC=C12,E-10-OH-nortriptyline,CNCCC=C1C2=CC=CC=C2CC(O)C2=CC=CC=C12,CYP2D6,Hydroxylation of alicyclic secondary carbon,0.73
+nortriptyline,CNCCC=C1C2=CC=CC=C2CCC2=CC=CC=C12,demethylnortriptyline,NCCC=C1C2=CC=CC=C2CCC2=CC=CC=C12,CYP2C19,N-dealkylation of acyclic secondary amine,0.98
+olanzapine,CC1=CC2=C(NC3=CC=CC=C3N=C2N2CCN(C)CC2)S1,,CN1CCN(C2=NC3=CC=CC=C3NC3=C2C=C(CO)S3)CC1,CYP1A2;CYP2D6;CYP3A4,ALIPHATIC HYDROXYLATION,0.95
+pefloxacin,CCN1C=C(C(=O)O)C(=O)C2=CC(F)=C(N3CCN(C)CC3)C=C21,"pefloxacin, N-desmethyl",CCN1C=C(C(=O)O)C(=O)C2=CC(F)=C(N3CCNCC3)C=C21,CYP1A2,N-dealkylation of alicyclic tertiary amine,0.99
+progesterone,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,6beta-OH-progesterone,CC(=O)C1CCC2C3CC(O)C4=CC(=O)CCC4(C)C3CCC12C,CYP3A4; CYP3A4; CYP4B1,Hydroxylation of carbon gamma to conjugated carbonyl,0.73
+promazine,CN(C)CCCN1C2=CC=CC=C2SC2=CC=CC=C21,Promazine 5-sulfoxide,CN(C)CCCN1C2=CC=CC=C2S(=O)C2=CC=CC=C21,CYP1A2 (major); CYP3A4 (major); CYP2A6 (minor); CYP2B6 (minor; CYP2D6 (minor); CYP2E1 (minor),S-oxidation of alkylarylthioether to sulfoxide,0.81
+promazine,CN(C)CCCN1C2=CC=CC=C2SC2=CC=CC=C21,N-Desmethyl promazine,CNCCCN1C2=CC=CC=C2SC2=CC=CC=C21,CYP1A2 (major); CYP2C9 (minor); CYP2C19 (major); CYP2A6 (minor); CYP2B6 (minor); CYP2D6 (minor); CYP2E1 (minor),N_DEALKYLATION_OF_ALIPHATIC_TERTIARY_AMINES_PATTERN1; N_DEALKYLATION_OF_ACYCLIC_TERTIARY_AMINES,0.98
+propofol,CC(C)C1=CC=CC(C(C)C)=C1O,4-OH-propofol,CC(C)C1=CC(O)=CC(C(C)C)=C1O,CYP2B6 (major); CYP2C9 (major); CYP1A2 (minor); CYP2A6 (minor); CYP2C8 (minor); CYP2C19 (minor); CYP2D6 (minor),Hydroxylation of benzene on carbon para to a strongly electron donating group,0.83
+quinidine,C=CC1CN2CCC1CC2C(O)C1=CC=NC2=CC=C(OC)C=C12,3-Hydroxyquinidine,C=CC1(O)CN2CCC1CC2C(O)C1=CC=NC2=CC=C(OC)C=C12,CYP3A4,Allylic hydroxylation,0.89
+quinine,C=CC1CN2CCC1CC2C(O)C1=CC=NC2=CC=C(OC)C=C12,,C=CC1(O)CN2CCC1CC2C(O)C1=CC=NC2=CC=C(OC)C=C12,CYP2C19;CYP3A4,Aliphatic Hydroxylation,0.89
+selegiline,C#CCN(C)C(C)CC1=CC=CC=C1,Methamphetamine,CNC(C)CC1=CC=CC=C1,CYP2B6; CYP2C19; CYP2D6; CYP1A2; CYP2C9; CYP3A4,N-depropargylation of secondary or tertiary amine,0.68
+sulfamethoxazole,CC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NO1,Sulfamethoxazole N4-hydroxylamine,CC1=CC(NS(=O)(=O)C2=CC=C(NO)C=C2)=NO1,CYP2C9,N-hydroxylation of primary arylamine,0.95
+tamoxifen,CCC(=C(C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,N-Desmethyltamoxifen,CCC(=C(C1=CC=CC=C1)C1=CC=C(OCCNC)C=C1)C1=CC=CC=C1,CYP2D6; CYP1A2; CYP1A1; CYP3A4; CYP1B1 (at a high concentration (250ÃŽÂ¼M)); CYP2C9 (at a high concentration (250ÃŽÂ¼M)); CYP2C19 (at a high concentration (250ÃŽÂ¼M)); CYP3A5 (at a high concentration (250ÃŽÂ¼M)); CYP2E1,N-dealkylation of acyclic tertiary amine,0.98
+terbinafine,CN(CC=CC#CC(C)(C)C)CC1=CC=CC2=CC=CC=C12,N-Desmethylterbinafine,CC(C)(C)C#CC=CCNCC1=CC=CC2=CC=CC=C12,CYP2C8; CYP2C9; CYP1A2,N_DEALKYLATION_OF_ALIPHATIC_TERTIARY_AMINES_PATTERN1; N_DEALKYLATION_OF_ACYCLIC_TERTIARY_AMINES,0.88
+terbinafine,CN(CC=CC#CC(C)(C)C)CC1=CC=CC2=CC=CC=C12,Hydroxyterbinafine,CN(CC=CC#CC(C)(C)CO)CC1=CC=CC2=CC=CC=C12,CYP1A2; CYP2C8; CYP2C9; CYP2C19,Hydroxylation of terminal methyl,0.93
+terbinafine,CN(CC=CC#CC(C)(C)C)CC1=CC=CC2=CC=CC=C12,1-Naphtaldehyde,O=CC1=CC=CC2=CC=CC=C12,CYP3A4,N_DEALKYLATION_OF_ALIPHATIC_TERTIARY_AMINES_PATTERN1,0.32
+testosterone,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(O)CCC12,6ÃŽÂ²Hydroxytestosterone ,CC12CCC(=O)C=C1C(O)CC1C2CCC2(C)C(O)CCC12,CYP3A4; CYP3A5;  CYP2C9; CYP1A1; CYP1B1,Hydroxylation of carbon gamma to conjugated carbonyl,0.81
+testosterone,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(O)CCC12,Androstenedione ,CC12CCC3C(CCC4=CC(=O)CCC43C)C1CCC2=O,CYP2C19; CYP2C9 ,Oxidation of secondary alcohol to ketone,0.7
+ticlopidine,ClC1=CC=CC=C1CN1CCC2=C(C=CS2)C1,Thienodihydropyridinium,ClC1=CC=CC=C1CN1C=C2C=C[S+]=C2CC1,CYP3A4; CYP2C19,Formation of imminium ion from N-substituted piperidine,0.32
+ticlopidine,ClC1=CC=CC=C1CN1CCC2=C(C=CS2)C1,Ticlopidine S-oxide,O=S1C=CC2=C1CCN(CC1=CC=CC=C1Cl)C2,CYP2C19; CYP2D6,Thiohene S-oxidation,0.33
+toremifene,CN(C)CCOC1=CC=C(C(=C(CCCl)C2=CC=CC=C2)C2=CC=CC=C2)C=C1,N-desmethyltoremifene,CNCCOC1=CC=C(C(=C(CCCl)C2=CC=CC=C2)C2=CC=CC=C2)C=C1,CYP1A1; CYP1A2; CYP3A4 (major),N_DEALKYLATION_OF_ALIPHATIC_TERTIARY_AMINES_PATTERN1; N_DEALKYLATION_OF_ACYCLIC_TERTIARY_AMINES,0.98
+toremifene,CN(C)CCOC1=CC=C(C(=C(CCCl)C2=CC=CC=C2)C2=CC=CC=C2)C=C1,N-desmethyltoremifene,CNCCOC1=CC=C(C(=C(CCCl)C2=CC=CC=C2)C2=CC=CC=C2)C=C1,CYP1A1; CYP1A2; CYP3A4 (major),Deamino,0.98
+unii-ku5u13xy7j component vwcugcyzzgrkee-dyesrhjhsa-n,CCC(OC(C)=O)C(CC(C)NC)(C1=CC=CC=C1)C1=CC=CC=C1,,CCC(OC(C)=O)C(CC(C)N)(C1=CC=CC=C1)C1=CC=CC=C1,CYP2B6,N-demethylation,0.94
+valproic acid,CCCC(CCC)C(=O)O,4-Hydroxyvalproate,CCCC(CC(C)O)C(=O)O,CYP2C9; CYP2B6; CYP2A6,Hydroxylation of penultimate aliphatic secondary carbon,0.63
+valproic acid,CCCC(CCC)C(=O)O,5-Hydroxyvalproate,CCCC(CCCO)C(=O)O,CYP2C9; CYP2B6; CYP2A6,Hydroxylation of terminal methyl,0.82
+valproic acid,CCCC(CCC)C(=O)O,3-Hydroxyvalproate,CCCC(C(=O)O)C(O)CC,CYP2C9; CYP2B6; CYP2A6,Hydroxylation of acyclic aliphatic secondary carbon,0.56
+valproic acid,CCCC(CCC)C(=O)O,4-ene-valproate,C=CCC(CCC)C(=O)O,CYP2C9,Terminal desaturation,0.67
+valsartan,CCCCC(=O)N(CC1=CC=C(C2=CC=CC=C2C2=NNN=N2)C=C1)C(C(=O)O)C(C)C,4-OH-valsartan,CC(O)CCC(=O)N(CC1=CC=C(C2=CC=CC=C2C2=NNN=N2)C=C1)C(C(=O)O)C(C)C,CYP2C9,Hydroxylation of acyclic aliphatic secondary carbon,0.98
+Artesunate,CC1CCC2C(C)C(OC(=O)CCC(=O)O)OC3OC4(C)CCC1C32OO4,,CC1CCC2C(C)C(O)OC3OC4(C)CCC1C32OO4,CYP2A6,O-dealkylation,0.9
+zinc03978059,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,free cortisol,CC12CCC(=O)C=C1C(O)CC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,CYP3A4,Alipathic Hydroxylation (6ÃŽÂ²-hydroxylation),0.89
+"Retinoic acid, all-trans",CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O,4-Hydroxyretinoic acid,CC(C=CC1=C(C)C(O)CCC1(C)C)=CC=CC(C)=CC(=O)O,CYP1A2; CYP3A7; CYP2C8 (major); CYP3A4; CYP2C9 (minor); CYP2B6; CYP3A5; CYP2A6,Hydroxylation of alicyclic secondary carbon,0.75
+"Retinoic acid, all-trans",CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O,18-Hydroxyretinoic acid,CC(C=CC1=C(CO)CCCC1(C)C)=CC=CC(C)=CC(=O)O,CYP4A11; CYP3A7; CYP1A1; CYP2C8; CYP2C9; CYP2C18; CYP3A4; CYP3A5,Hydroxlation of methyl carbon adjacent to an aliphatic ring,0.86
+"Retinoic acid, all-trans",CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O,"5,6-Epoxy-retinoic acid",CC(C=CC12OC1(C)CCCC2(C)C)=CC=CC(C)=CC(=O)O,CYP2C8; CYP2C9; CYP1A1; CYP2D6,EPOXIDATION_OF_1122_TETRASUBSTITUTED_ALKLENE,0.35
+Metamphetamine,CNC(C)CC1=CC=CC=C1,4-Hydroxymethamphetamine,CNC(C)CC1=CC=C(O)C=C1,CYP2D6,p-Hydroxylation of monosubstituted benzene,0.77
+Metamphetamine,CNC(C)CC1=CC=CC=C1,Amphetamine,CC(N)CC1=CC=CC=C1,CYP2D6,N-dealkylation of acyclic secondary amine,0.84
+desimipramine,CNCCCN1C2=CC=CC=C2CCC2=CC=CC=C21,2-hydroxy-desipramine ,CNCCCN1C2=CC=CC=C2CCC2=CC(O)=CC=C21,CYP2D6,Aromatic Hydroxylation,0.86
+(r)-fluoxetine,CNCCC(OC1=CC=C(C(F)(F)F)C=C1)C1=CC=CC=C1,(r)-Norfluoxetine,NCCC(OC1=CC=C(C(F)(F)F)C=C1)C1=CC=CC=C1,CYP2C9 (major); CYP2D6; CYP2C19; CYP3A5 ,N-dealkylation of acyclic secondary amine,0.95
+(r)-fluoxetine,CNCCC(OC1=CC=C(C(F)(F)F)C=C1)C1=CC=CC=C1,p-Trifluoromethyl phenol,OC1=CC=C(C(F)(F)F)C=C1,CYP2D6,O-dealkylation,0.32
+(s)-azelastine,CN1CCCC(N2N=C(CC3=CC=C(Cl)C=C3)C3=CC=CC=C3C2=O)CC1,"(s)-azelastine, N-desmethyl",O=C1C2=CC=CC=C2C(CC2=CC=C(Cl)C=C2)=NN1C1CCCNCC1,CYP3A4; CYP2D6; CYP1A2 (minor),N-dealkylation of alicyclic tertiary amine,0.98
+"2,6-Xylidine",CC1=CC=CC(C)=C1N,"4-hydroxy-2,6-dimethylaniline",CC1=CC(O)=CC(C)=C1N,CYP2A6; CYP2E1,Hydroxylation of benzene on carbon para to a strongly electron donating group,0.61
+(R)-acenocoumarol,CC(=O)CC(C1=CC=C([N+](=O)[O-])C=C1)C1=C(O)C2=CC=CC=C2OC1=O,6-OH-R-acenocoumarol,CC(=O)CC(C1=CC=C([N+](=O)[O-])C=C1)C1=C(O)C2=CC=CC(O)=C2OC1=O,CYP2C9; CYP1A2; CYP2C19,Aromatic hydroxylation of fused benzene ring,0.93
+(R)-acenocoumarol,CC(=O)CC(C1=CC=C([N+](=O)[O-])C=C1)C1=C(O)C2=CC=CC=C2OC1=O,7-OH-R-acenocoumarol,CC(=O)CC(C1=CC=C([N+](=O)[O-])C=C1)C1=C(O)C2=CC=C(O)C=C2OC1=O,CYP2C9; CYP2C19,Aromatic hydroxylation of fused benzene ring,0.99
+(R)-acenocoumarol,CC(=O)CC(C1=CC=C([N+](=O)[O-])C=C1)C1=C(O)C2=CC=CC=C2OC1=O,8-OH-R-acenocoumarol,CC(=O)CC(C1=CC=C([N+](=O)[O-])C=C1)C1=C(O)C2=CC(O)=CC=C2OC1=O,CYP2C9; CYP2C19,Aromatic hydroxylation of fused benzene ring,0.97
+Amphetamine,CC(N)CC1=CC=CC=C1,4-Hydroxyamphetamine,CC(N)CC1=CC=C(O)C=C1,CYP2D6,p-Hydroxylation of monosubstituted benzene,0.73
+(+)-Camphor,CC12CCC(CC1=O)C2(C)C,8-hydroxycamphor,CC12CC(O)C(CC1=O)C2(C)C,CYP2D6,Hydroxylation of alicyclic secondary carbon,0.62
+Fluoxetine ,CNCCC(OC1=CC=C(C(F)(F)F)C=C1)C1=CC=CC=C1,Norfluoxetine,NCCC(OC1=CC=C(C(F)(F)F)C=C1)C1=CC=CC=C1,CYP2C9 (major); CYP2D6,N-dealkylation of acyclic secondary amine,0.95
+Fluoxetine ,CNCCC(OC1=CC=C(C(F)(F)F)C=C1)C1=CC=CC=C1,p-Trifluoromethylphenol,OC1=CC=C(C(F)(F)F)C=C1,CYP2C19; CYP3A4,O-aryl dealkylation not adjacent to substituted carbon,0.32
+lansoprazole,CC1=C(OCC(F)(F)F)C=CN=C1CS(=O)C1=NC2=CC=CC=C2N1,,CC1=C(OCC(F)(F)F)C=CN=C1CS(=O)(=O)C1=NC2=CC=CC=C2N1,CYP3A4,S-Oxidation,0.94
+R-Ibuprofen,CC(C)CC1=CC=C(C(C)C(=O)O)C=C1,"R,S-3-Hydroxyibuprofen",CC(CO)CC1=CC=C(C(C)C(=O)O)C=C1,CYP2C8; CYP2C9,Hydroxylation of terminal methyl,0.92
+R-Ibuprofen,CC(C)CC1=CC=C(C(C)C(=O)O)C=C1,R-2-Hydroxyibuprofen,CC(C(=O)O)C1=CC=C(CC(C)(C)O)C=C1,CYP2C8; CYP2C9,Hydroxylation of alkyl methine,0.91
+M7,CCCCC1=NC2(CCC(O)C2)C(=O)N1CC1=CC=C(C2=CC=CC=C2C2=NNN=N2)C=C1,M1,CC(O)CCC1=NC2(CCC(O)C2)C(=O)N1CC1=CC=C(C2=CC=CC=C2C2=NNN=N2)C=C1,CYP2C9,Hydroxylation of alicyclic secondary carbon,0.99
+N-Desmethyldiphenhydramine,CNCCOC(C1=CC=CC=C1)C1=CC=CC=C1,"N,N-Didesmethyldiphenhydramine",NCCOC(C1=CC=CC=C1)C1=CC=CC=C1,CYP2D6; CYP1A2; CYP2C9; CYP2C19,N-dealkylation of acyclic secondary amine,0.94
+1-Naphtaldehyde,O=CC1=CC=CC2=CC=CC=C12,1-Nahthalenethanol,OCC1=CC=CC2=CC=CC=C12,CYP3A4,Reduction of aldehyde to alcohol,0.58
+(+)-limonene,C=C(C)C1CC=C(C)CC1,Carveol,C=C(C)C1CC=C(C)C(O)C1,CYP2C9; CYP2C19,Hydroxylation of alicyclic secondary carbon,0.58
+(+)-limonene,C=C(C)C1CC=C(C)CC1,Perillyl alcohol,C=C(C)C1CC=C(CO)CC1,CYP2C9; CYP2C19; CYP3A4,Hydroxlation of methyl carbon adjacent to an aliphatic ring,0.76
+Rofecoxib,CS(=O)(=O)C1=CC=C(C2=C(C3=CC=CC=C3)C(=O)OC2)C=C1,5-OH-rofecoxib,CS(=O)(=O)C1=CC=C(C2=C(C3=CC=CC=C3)C(=O)OC2O)C=C1,CYP1A2; CYP3A4,ALIPHATIC_HYDROXYLATION_OF_CARBON_ADJACENT_TO_OXYGEN,0.85
+Sulfinpyrazone,O=C1C(CCS(=O)C2=CC=CC=C2)C(=O)N(C2=CC=CC=C2)N1C1=CC=CC=C1,Sulfinpyrazone sulfone,O=C1C(CCS(=O)(=O)C2=CC=CC=C2)C(=O)N(C2=CC=CC=C2)N1C1=CC=CC=C1,CYP3A4; CYP2C9,S-oxidation of sulfoxide to sulfone,0.97
+suprofen,CC(C(=O)O)C1=CC=C(C(=O)C2=CC=CS2)C=C1,Suprofen -sulfoxide,CC(C(=O)O)C1=CC=C(C(=O)C2=CC=CS2=O)C=C1,CYP2C9,Thiohene S-oxidation,0.35
+suprofen,CC(C(=O)O)C1=CC=C(C(=O)C2=CC=CS2)C=C1,"Thiophene-4,5-epoxide",CC(C(=O)O)C1=CC=C(C(=O)C2=CC3OC3S2)C=C1,CYP2C9,Epoxidation of thiophene,0.32
+4-hydroxytamoxifen,CCC(=C(C1=CC=C(O)C=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Tamoxifen 4-O-sulfate,CCC(=C(C1=CC=C(OCCN(C)C)C=C1)C1=CC=C(OS(=O)(=O)O)C=C1)C1=CC=CC=C1,SULT1A1,4-OH sulfonation of phenolic compound,0.84
+All-trans-retinoic acid,CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O,All-trans-retinoyl glucuronide,CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)OC1OC(C(=O)O)C(O)C(O)C1O,UGT,O-glucuronidation of aliphatic acid,0.37
+Epitestosterone,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(O)CCC12,Epitestosterone O-glucuronide,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(OC3OC(C(=O)O)C(O)C(O)C3O)CCC12,UGT,17-OH glucuronidation of sterol,0.49
+Diphenhydramine,CN(C)CCOC(C1=CC=CC=C1)C1=CC=CC=C1,Diphenhydramine N-glucuronide,C[N+](C)(CCOC(C1=CC=CC=C1)C1=CC=CC=C1)C1OC(C(=O)O)C(O)C(O)C1O,UGT1A3,N-glucuronidation of tertiary aliphatic amine,0.28
+Cholic acid,CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C,Cholic acid glucuronide,CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(OC5OC(C(=O)O)C(O)C(O)C5O)CCC4(C)C3CC(O)C12C,UGT,3-OH glucuronidation of sterol,0.34
+Tolmetin,CC1=CC=C(C(=O)C2=CC=C(CC(=O)O)N2C)C=C1,,CC1=CC=C(C(=O)C2=CC=C(CC(=O)OC3OC(C(=O)O)C(O)C(O)C3O)N2C)C=C1,UGT,O-glucuronidation of aliphatic acid,0.64
+Dehydroisoandrosterone,CC12CCC3C(CC=C4CC(O)CCC43C)C1CCC2=O,,CC12CCC3C(CC=C4CC(OC5OC(C(=O)O)C(O)C(O)C5O)CCC43C)C1CCC2=O,UGT,O-glucuronidation,0.5
+Diclofenac,O=C(O)CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl,,O=C(CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl)OC1OC(C(=O)O)C(O)C(O)C1O,UGT,O-glucuronidation of aliphatic acid,0.48
+Ascorbic acid,O=C1OC(C(O)CO)C(O)=C1O,,O=C1OC(C(O)CO)C(O)=C1OS(=O)(=O)O,SULT,O-sulfonation,0.65
+testosterone,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(O)CCC12,,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(OS(=O)(=O)O)CCC12,SULT,O-sulfonation,0.75
+Propofol,CC(C)C1=CC=CC(C(C)C)=C1O,,CC(C)C1=CC=CC(C(C)C)=C1OC1OC(C(=O)O)C(O)C(O)C1O,"UGT1A8, UGT1A9",O-glucuronidation,0.25
+Codeine,COC1=CC=C2CC3C4C=CC(O)C5OC1=C2C45CCN3C,,COC1=CC=C2CC3C4C=CC(OC5OC(C(=O)O)C(O)C(O)C5O)C5OC1=C2C45CCN3C,UGT,O-glucuronidation,0.9
+Fluoxetine,CNCCC(OC1=CC=C(C(F)(F)F)C=C1)C1=CC=CC=C1,,CN(CCC(OC1=CC=C(C(F)(F)F)C=C1)C1=CC=CC=C1)C1OC(C(=O)O)C(O)C(O)C1O,UGT,O-glucuronidation,0.45
+Thyroxine,NC(CC1=CC(I)=C(OC2=CC(I)=C(O)C(I)=C2)C(I)=C1)C(=O)O,,NC(CC1=CC(I)=C(OC2=CC(I)=C(OC3OC(C(=O)O)C(O)C(O)C3O)C(I)=C2)C(I)=C1)C(=O)O,UGT,O-glucuronidation,0.48
+4-OH-propofol,CC(C)C1=CC(O)=CC(C(C)C)=C1O,,CC(C)C1=CC(O)=CC(C(C)C)=C1OC1OC(C(=O)O)C(O)C(O)C1O,"UGT1A8, UGT1A9",O-glucuronidation,0.29
+4-OH-propofol,CC(C)C1=CC(O)=CC(C(C)C)=C1O,,CC(C)C1=CC(OS(=O)(=O)O)=CC(C(C)C)=C1O,SULT,O-sulfonation,0.65
+Hydromorphone,CN1CCC23C4=C5C=CC(O)=C4OC2C(=O)CCC3C1C5,Hydromorphone 3-beta-O-glucuronide,CN1CCC23C4=C5C=CC(OC6OC(C(=O)O)C(O)C(O)C6O)=C4OC2C(=O)CCC3C1C5,UGT,Aromatic -OH glucuronidation,0.87
+4-Hydroxyandrostenedione,CC12CCC3C(CCC4=C(O)C(=O)CCC43C)C1CCC2=O,,CC12CCC3C(CCC4=C(OC5OC(C(=O)O)C(O)C(O)C5O)C(=O)CCC43C)C1CCC2=O,UGT,O-glucuronidation,0.49
+Haloperidol,O=C(CCCN1CCC(O)(C2=CC=C(Cl)C=C2)CC1)C1=CC=C(F)C=C1,,O=C(CCCN1CCC(OC2OC(C(=O)O)C(O)C(O)C2O)(C2=CC=C(Cl)C=C2)CC1)C1=CC=C(F)C=C1,UGT,O-glucuronidation,0.49
+(R)-(-)-Ibuprofen,CC(C)CC1=CC=C(C(C)C(=O)O)C=C1,,CC(C)CC1=CC=C(C(C)C(=O)OC2OC(C(=O)O)C(O)C(O)C2O)C=C1,"UGT1A1, UGT1A3, UGTA9, UGT2B4, UGT2B7",O-glucuronidation of aliphatic acid,0.29
+Pregnenolone,CC(=O)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C,,CC(=O)C1CCC2C3CC=C4CC(OS(=O)(=O)O)CCC4(C)C3CCC12C,SULT,3-OH-sulfation of sterol,0.76
